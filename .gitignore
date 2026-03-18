@@ -1,0 +1,15 @@
+# Binaries
+flywheel
+flywheel.exe
+
+# Test artifacts
+*.test
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
